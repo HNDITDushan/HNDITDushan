@@ -12,7 +12,6 @@
 - 🔭 Building Playwright automation for healthcare web apps
 - 🌱 Currently learning the WhatsApp Cloud API and Telegram bots
 - 🐧 I manage Ubuntu servers with Python/Paramiko health checks
-- 📫 Reach me at **your-email@example.com**
 
 ## 🛠️ Tech Stack
 **Languages**  
@@ -52,7 +51,6 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dushan619"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
  
