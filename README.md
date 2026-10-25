@@ -32,16 +32,18 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HNDITDushan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNDITDushan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/HNDITDushan/HNDITDushan/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/HNDITDushan/HNDITDushan/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/HNDITDushan/HNDITDushan/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/HNDITDushan/HNDITDushan/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/HNDITDushan/HNDITDushan/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HNDITDushan&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HNDITDushan&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ## 🐍 Contribution Snake
